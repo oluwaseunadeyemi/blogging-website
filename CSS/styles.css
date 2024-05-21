@@ -1,0 +1,82 @@
+.header{
+    background-image: url(best-korean-dramas.avif);
+    background-size: cover;
+    height: 100vh;
+    
+}
+.header img{
+    width: 2%;
+}
+
+img{
+    width: 40%;
+}
+
+.body{
+    background-color: #c3a9ff;
+    padding: 30px;
+    margin-top: 10px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: 40px;
+    
+}
+
+.h1{
+    padding: 0px 300px;
+    text-align: center;
+    
+}
+.body a{
+    color: black;
+    padding: 15px 30px;
+    border-radius: 30px;
+    background-color: white;
+    transition-duration: 3ms;
+    border: none;
+    text-decoration: none;
+}
+.body a:hover{
+    background-color: black;
+    color: white;
+}
+.body2{
+    padding: 30px;
+    margin-top: 10px;
+    background-color: white;
+}
+.body2 a{
+    color: black;
+    padding: 15px 30px;
+    border-radius: 30px;
+    background-color: #c3a9ff;
+    transition-duration: 3ms;
+    border: none;
+    text-decoration: none;
+}
+.body2 a:hover{
+    background-color: black;
+    color: #c3a9ff;
+}
+.body3{
+    background-color: #c3a9ff;
+    padding: 30px;
+    margin-top: 10px;
+}
+.body3 a{
+    color: black;
+    padding: 15px 30px;
+    border-radius: 30px;
+    background-color: white;
+    transition-duration: 3ms;
+    border: none;
+    text-decoration: none;
+}
+.body3 a:hover{
+    background-color: black;
+    color: white;
+}
